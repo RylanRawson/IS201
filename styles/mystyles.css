@@ -1,0 +1,27 @@
+/* Rylan Rawson - Date */
+
+body{
+    background-color: #fff1d8;
+    color: #171313;
+    font-family: inherit
+}
+
+p{
+    font-size: 20px;
+    font-family: sans-serif
+}
+
+a:hover{text-decoration: underline}
+
+H1{font-family: inherit}
+
+H2{
+    font-family: inherit;
+    font-weight: bold
+
+}
+
+span{font-family: inherit}
+
+
+
